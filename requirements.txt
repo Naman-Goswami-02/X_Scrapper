@@ -1,0 +1,6 @@
+langdetect
+torch
+torchvision
+transformer
+playwright
+playwright install
