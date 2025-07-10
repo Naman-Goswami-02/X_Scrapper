@@ -6,6 +6,7 @@ import time
 import os
 import random
 
+# Change the search queries Keyword according to your own needs
 SEARCH_QUERIES = [
     "Kedarnath experience", "CharDham Yatra", "Kedarnath crowd", "visited Kedarnath",
     "CharDham issues", "Kedarnath", "CharDhamYatra", "Badrinath experience",
